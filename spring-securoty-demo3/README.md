@@ -326,7 +326,7 @@ public class User implements UserDetails, CredentialsContainer {
 
 之所以自定义UserEntity,这里是为了方面初学者进行快速入门,相比于User我们的UserEntity还是很简单的.
 
-现在 我们的 UserDetailsService 已经完成了,接下类就是在 SecurityConfig 的configure方法中使用了,如下:
+现在 我们的 UserDetailsService 已经完成了,接下来就是在 SecurityConfig 的configure方法中使用了,如下:
 
 ```java
 /**
@@ -364,7 +364,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 后面我们将会开始介绍Spring Security 对请求的拦截.
 
 
-
+> 本节源码地址: https://github.com/itguang/security/tree/master/spring-securoty-demo3
 
 
 
