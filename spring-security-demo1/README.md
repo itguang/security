@@ -149,7 +149,7 @@ HTTP请求都要进行认证。它也配置Spring Security支持基于表单的�
 	   	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 	   		auth.inMemoryAuthentication().withUser("user").password("password").roles("USER");
 	   	}
-}
+} 
 ```
 上面这个注释的示例演示了如何为应用程序配置HTTP基本身份验证。默认的域是“Spring Security Application”，但是可以使用它进行自定义
 
@@ -164,47 +164,5 @@ HTTP请求都要进行认证。它也配置Spring Security支持基于表单的�
 
 我们下节再展开叙述。
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 源码地址：https://github.com/itguang/security/tree/master/spring-security-demo1
 

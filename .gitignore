@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+jwt-demo/src/main/resources/static/
+jwt-demo/src/main/resources/templates/
+spring-security-demo1/src/main/resources/static/
+spring-security-demo1/src/main/resources/templates/
+spring-security-demo2/.gitignore
+spring-security-demo2/.mvn/
+spring-security-demo2/mvnw
+spring-security-demo2/mvnw.cmd
+spring-security-demo2/pom.xml
+spring-security-demo2/src/
+spring-security-demo3/pom.xml
+spring-security-demo3/src/main/java/com/itguang/springsecurotydemo3/SpringSecurotyDemo3Application.java
+spring-security-demo3/src/main/resources/
+spring-security-demo3/src/test/
+spring-security-demo4/pom.xml
+spring-security-demo4/src/main/java/com/itguang/springsecuritydemo4/SpringSecurityDemo4Application.java
+spring-security-demo4/src/main/resources/
+spring-security-demo4/src/test/
+spring-security-demo5/pom.xml
+spring-security-demo5/src/main/java/com/itguang/springsecuritydemo5/SpringSecurityDemo5Application.java
+spring-security-demo5/src/main/resources/
+spring-security-demo5/src/test/
+spring-securoty-demo3/
+spring-securoty-demo4/
